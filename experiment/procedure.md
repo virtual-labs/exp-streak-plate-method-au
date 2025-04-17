@@ -83,13 +83,13 @@ In an actual laboratory setting, there are certain important steps that are not 
 5.	Properly adjust the flame of the Bunsen burner. The proper flame is a small blue cone; it is not a large plume, nor is it orange.
 6.	Always label all tubes and plates with:
 
-    a. The name of the organism
+a. The name of the organism
 
-    b.	The type of media 
+b. The type of media 
 
-    c.	Your initials 
+c. Your initials 
 
-    d.	The date
+d. The date
 
 7.	While flaming the inoculation loop be sure that each segment of metal glows orange/red-hot before you move the next segment into the flame.
 8.	Once you have flamed your loop, do not lay it down, blow on it, touch it with your fingers, or touch it to any surface other than your inoculums. If you do touch the tip to another surface or blow on it, you will have to re-flame the loop before you proceed to your experiment.
