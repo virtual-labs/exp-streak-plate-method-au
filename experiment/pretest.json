@@ -3,12 +3,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. ",
+      "question": "1. Streak plate is a",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Qualitative isolation method",
+        "b": "Quantitative isolation method",
+        "c": "Non dilution isolation method",
+        "d": "None of the above"
       },
  
       "correctAnswer": "a",
@@ -17,12 +17,12 @@
 
 
     {
-      "question": "2. ",
+      "question": "2. A pure culture is best defined as",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "group of microorganisms which are genetically different",
+        "b": "group of microorganisms that are genetically similar",
+        "c": "group of microorganisms which are genetically similar, but morphologically different",
+        "d": "None of the above"
       },
       
       "correctAnswer": "b",
@@ -31,12 +31,12 @@
 
     
     {
-      "question": "3. ",
+      "question": "3. To determine the size, colony morphology and grouping of bacterial cells, we use",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Streak plate",
+        "b": "phenol red",
+        "c": "simple stain",
+        "d": "nutrient broth culture"
       },
      
       "correctAnswer": "a",
