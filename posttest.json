@@ -1,0 +1,47 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. A pure culture is best defined as",
+      "answers": {
+        "a": "group of microorganisms which are genetically different",
+        "b": "group of microorganisms that are genetically similar",
+        "c": "group of microorganisms which are genetically similar, but morphologically different",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "2. During streak plate technique, the loop is heated in between the sector of quadrants. This ensures",
+      "answers": {
+        "a": "To get dense colonies",
+        "b": "To get individual isolated colonies",
+        "c": "To differentiate Gram positive and Gram negative bacteria",
+        "d": "To kill the infectious microorganism"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. The order of growth seen in the first, second, third and the fourth quadrant of a four quadrant streak plate",
+      "answers": {
+        "a": "Heavy confluent growth, dense growth, weak growth and isolated colonies",
+        "b": "Weak growth, heavy confluent growth, dense growth, isolated colonies",
+        "c": "Dense growth, heavy confluent growth, weak growth , isolated colonies",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
