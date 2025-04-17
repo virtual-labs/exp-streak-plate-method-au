@@ -59,3 +59,51 @@ The lid of the agar plate has to be opened just sufficiently enough to streak th
 20.	Flame the loop before putting it aside.      
 
 
+&nbsp;
+
+<img src="images/1.jpg" title="" />
+
+Fig 1: Staphylococcus aureus colony on nutrient agar
+
+1. Area of initial inoculation and the first streak yields heavy growth.
+2. Area of the second streak from the area 1 yields gives dense growth.
+3. Area of the third streak from the area2 yields weak growth.
+4. Area of the fourth streak from the area3 yields single colonies.
+
+&nbsp;
+
+### Differences Encountered in a Real laboratory:
+ 
+In an actual laboratory setting, there are certain important steps that are not necessarily applicable in a virtual lab:
+ 
+1.	Always wear gloves, and lab coat.
+2.	Tie your hair properly to prevent any contamination from the culture you are working with.
+3.	When you enter the lab switch on the exhaust fans.
+4.	Switch on the lights of the laminar air flow and blower. Prepare your work space (Laminar Air Flow Cabinet) or lab bench by wiping down the area with disinfectant.
+5.	Properly adjust the flame of the Bunsen burner. The proper flame is a small blue cone; it is not a large plume, nor is it orange.
+6.	Always label all tubes and plates with:
+
+    a. The name of the organism
+
+    b.	The type of media 
+
+    c.	Your initials 
+
+    d.	The date
+
+7.	While flaming the inoculation loop be sure that each segment of metal glows orange/red-hot before you move the next segment into the flame.
+8.	Once you have flamed your loop, do not lay it down, blow on it, touch it with your fingers, or touch it to any surface other than your inoculums. If you do touch the tip to another surface or blow on it, you will have to re-flame the loop before you proceed to your experiment.
+9.	Allow your loop to cool before you try to pick up your organism to avoid killing the inoculum.
+10.	When removing the caps from tubes, always keep the caps in your hand.  Never set them on the table, as they could pick up contaminants. 
+11.	Always handle open tubes at an angle near to the flame of the burner; never let them point directly up, since airborne or other environmental organisms could fall into the tube and cause contamination.
+12.	Open the lid of the plate sufficiently (45 degrees) to introduce an inoculation loop and only for the time it takes to obtain inoculums.
+13.	Rotate the plate counter clockwise 90 degrees and cross the prior streaks to pick up some bacteria and spread them into the next quadrant (Repeat in all the four quadrants).
+14.	Streak gently; does not gouge the agar.
+15.	As soon as the inoculation is completed, flame your loop or needle. Never place a contaminated tool on your workbench.
+16.	Turn the inoculated petriplate upside down while keeping it in the incubator.
+17.	Discard all contaminated materials properly and return your supplies to the proper storage locations, and clean up your working area.
+18.	Always disinfect your work area when you are finished.
+19.	Turn off Bunsen burner and make sure that the safety valve of the gas cylinder is tightened.
+20.	Switch off the laminar air flow and exhaust fans before leaving the laboratory.
+21.	Ensure proper hand washing before you leave from the laboratory.
+
